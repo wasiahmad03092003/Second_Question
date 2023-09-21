@@ -20,7 +20,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/facebook" />
+        app:srcCompat="@drawable/_64465" />
 
     <LinearLayout
         android:id="@+id/linearLayout"
@@ -50,7 +50,7 @@
                 android:layout_height="wrap_content"
                 android:backgroundTintMode="add"
                 android:text="@string/login"
-                android:textColor="#ED2196F3"
+                android:textColor="#ED000000"
                 android:background="@drawable/box_input"
                 tools:ignore="TouchTargetSizeCheck" />
         </LinearLayout>

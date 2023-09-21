@@ -8,8 +8,8 @@
 
     <ImageView
         android:id="@+id/imageView4"
-        android:layout_width="313dp"
-        android:layout_height="330dp"
+        android:layout_width="185dp"
+        android:layout_height="180dp"
         android:layout_marginTop="144dp"
         android:layout_marginBottom="75dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -17,6 +17,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.307"
-        app:srcCompat="@drawable/facebook" />
+        app:srcCompat="@drawable/_64465" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -12,6 +12,6 @@ public class HomePage extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_home_page);
 
-        Toast.makeText(HomePage.this, "Account ban gaya ha", Toast.LENGTH_SHORT).show();
+        Toast.makeText(HomePage.this, "Account has been created", Toast.LENGTH_SHORT).show();
     }
 }
